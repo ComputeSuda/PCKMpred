@@ -1,0 +1,150 @@
+2022-03-17 11:10:42
+sample 0
+accuracy: 0.792	precision: 0.781	sensitivity: 0.862	specificity: 0.708	true_positive_rate: 0.862	true_negative_rate: 0.708	false_positive_rate: 0.292	false_negative_rate: 0.138	f1_score: 0.82	auc: 0.879	matthews_correlation_coefficient: 0.58	
+2022-03-17 11:10:52
+sample 1
+accuracy: 0.792	precision: 0.909	sensitivity: 0.69	specificity: 0.917	true_positive_rate: 0.69	true_negative_rate: 0.917	false_positive_rate: 0.083	false_negative_rate: 0.31	f1_score: 0.784	auc: 0.889	matthews_correlation_coefficient: 0.613	
+2022-03-17 11:11:01
+sample 2
+accuracy: 0.792	precision: 0.875	sensitivity: 0.724	specificity: 0.875	true_positive_rate: 0.724	true_negative_rate: 0.875	false_positive_rate: 0.125	false_negative_rate: 0.276	f1_score: 0.792	auc: 0.847	matthews_correlation_coefficient: 0.599	
+2022-03-17 11:11:10
+sample 3
+accuracy: 0.774	precision: 0.905	sensitivity: 0.655	specificity: 0.917	true_positive_rate: 0.655	true_negative_rate: 0.917	false_positive_rate: 0.083	false_negative_rate: 0.345	f1_score: 0.76	auc: 0.851	matthews_correlation_coefficient: 0.582	
+2022-03-17 11:11:19
+sample 4
+accuracy: 0.755	precision: 0.786	sensitivity: 0.759	specificity: 0.75	true_positive_rate: 0.759	true_negative_rate: 0.75	false_positive_rate: 0.25	false_negative_rate: 0.241	f1_score: 0.772	auc: 0.878	matthews_correlation_coefficient: 0.507	
+2022-03-17 11:11:28
+sample 5
+accuracy: 0.774	precision: 0.905	sensitivity: 0.655	specificity: 0.917	true_positive_rate: 0.655	true_negative_rate: 0.917	false_positive_rate: 0.083	false_negative_rate: 0.345	f1_score: 0.76	auc: 0.871	matthews_correlation_coefficient: 0.582	
+2022-03-17 11:11:38
+sample 6
+accuracy: 0.755	precision: 0.944	sensitivity: 0.586	specificity: 0.958	true_positive_rate: 0.586	true_negative_rate: 0.958	false_positive_rate: 0.042	false_negative_rate: 0.414	f1_score: 0.723	auc: 0.885	matthews_correlation_coefficient: 0.572	
+2022-03-17 11:11:47
+sample 7
+accuracy: 0.755	precision: 0.864	sensitivity: 0.655	specificity: 0.875	true_positive_rate: 0.655	true_negative_rate: 0.875	false_positive_rate: 0.125	false_negative_rate: 0.345	f1_score: 0.745	auc: 0.853	matthews_correlation_coefficient: 0.536	
+2022-03-17 11:11:57
+sample 8
+accuracy: 0.774	precision: 0.87	sensitivity: 0.69	specificity: 0.875	true_positive_rate: 0.69	true_negative_rate: 0.875	false_positive_rate: 0.125	false_negative_rate: 0.31	f1_score: 0.769	auc: 0.827	matthews_correlation_coefficient: 0.567	
+2022-03-17 11:12:06
+sample 9
+accuracy: 0.792	precision: 0.95	sensitivity: 0.655	specificity: 0.958	true_positive_rate: 0.655	true_negative_rate: 0.958	false_positive_rate: 0.042	false_negative_rate: 0.345	f1_score: 0.776	auc: 0.871	matthews_correlation_coefficient: 0.63	
+2022-03-17 11:12:15
+sample 10
+accuracy: 0.694	precision: 0.84	sensitivity: 0.656	specificity: 0.765	true_positive_rate: 0.656	true_negative_rate: 0.765	false_positive_rate: 0.235	false_negative_rate: 0.344	f1_score: 0.737	auc: 0.733	matthews_correlation_coefficient: 0.401	
+2022-03-17 11:12:24
+sample 11
+accuracy: 0.694	precision: 0.87	sensitivity: 0.625	specificity: 0.824	true_positive_rate: 0.625	true_negative_rate: 0.824	false_positive_rate: 0.176	false_negative_rate: 0.375	f1_score: 0.727	auc: 0.777	matthews_correlation_coefficient: 0.428	
+2022-03-17 11:12:34
+sample 12
+accuracy: 0.673	precision: 0.735	sensitivity: 0.781	specificity: 0.471	true_positive_rate: 0.781	true_negative_rate: 0.471	false_positive_rate: 0.529	false_negative_rate: 0.219	f1_score: 0.758	auc: 0.796	matthews_correlation_coefficient: 0.26	
+2022-03-17 11:12:43
+sample 13
+accuracy: 0.735	precision: 0.88	sensitivity: 0.688	specificity: 0.824	true_positive_rate: 0.688	true_negative_rate: 0.824	false_positive_rate: 0.176	false_negative_rate: 0.312	f1_score: 0.772	auc: 0.812	matthews_correlation_coefficient: 0.487	
+2022-03-17 11:12:52
+sample 14
+accuracy: 0.694	precision: 0.793	sensitivity: 0.719	specificity: 0.647	true_positive_rate: 0.719	true_negative_rate: 0.647	false_positive_rate: 0.353	false_negative_rate: 0.281	f1_score: 0.754	auc: 0.824	matthews_correlation_coefficient: 0.354	
+2022-03-17 11:13:02
+sample 15
+accuracy: 0.755	precision: 0.917	sensitivity: 0.688	specificity: 0.882	true_positive_rate: 0.688	true_negative_rate: 0.882	false_positive_rate: 0.118	false_negative_rate: 0.312	f1_score: 0.786	auc: 0.824	matthews_correlation_coefficient: 0.543	
+2022-03-17 11:13:11
+sample 16
+accuracy: 0.755	precision: 0.857	sensitivity: 0.75	specificity: 0.765	true_positive_rate: 0.75	true_negative_rate: 0.765	false_positive_rate: 0.235	false_negative_rate: 0.25	f1_score: 0.8	auc: 0.821	matthews_correlation_coefficient: 0.495	
+2022-03-17 11:13:20
+sample 17
+accuracy: 0.694	precision: 0.793	sensitivity: 0.719	specificity: 0.647	true_positive_rate: 0.719	true_negative_rate: 0.647	false_positive_rate: 0.353	false_negative_rate: 0.281	f1_score: 0.754	auc: 0.783	matthews_correlation_coefficient: 0.354	
+2022-03-17 11:13:29
+sample 18
+accuracy: 0.714	precision: 0.846	sensitivity: 0.688	specificity: 0.765	true_positive_rate: 0.688	true_negative_rate: 0.765	false_positive_rate: 0.235	false_negative_rate: 0.312	f1_score: 0.759	auc: 0.804	matthews_correlation_coefficient: 0.431	
+2022-03-17 11:13:38
+sample 19
+accuracy: 0.694	precision: 0.815	sensitivity: 0.688	specificity: 0.706	true_positive_rate: 0.688	true_negative_rate: 0.706	false_positive_rate: 0.294	false_negative_rate: 0.312	f1_score: 0.746	auc: 0.827	matthews_correlation_coefficient: 0.376	
+2022-03-17 11:13:47
+sample 20
+accuracy: 0.759	precision: 0.778	sensitivity: 0.75	specificity: 0.769	true_positive_rate: 0.75	true_negative_rate: 0.769	false_positive_rate: 0.231	false_negative_rate: 0.25	f1_score: 0.764	auc: 0.85	matthews_correlation_coefficient: 0.519	
+2022-03-17 11:13:56
+sample 21
+accuracy: 0.722	precision: 0.783	sensitivity: 0.643	specificity: 0.808	true_positive_rate: 0.643	true_negative_rate: 0.808	false_positive_rate: 0.192	false_negative_rate: 0.357	f1_score: 0.706	auc: 0.747	matthews_correlation_coefficient: 0.455	
+2022-03-17 11:14:05
+sample 22
+accuracy: 0.759	precision: 0.778	sensitivity: 0.75	specificity: 0.769	true_positive_rate: 0.75	true_negative_rate: 0.769	false_positive_rate: 0.231	false_negative_rate: 0.25	f1_score: 0.764	auc: 0.857	matthews_correlation_coefficient: 0.519	
+2022-03-17 11:14:14
+sample 23
+accuracy: 0.796	precision: 0.905	sensitivity: 0.679	specificity: 0.923	true_positive_rate: 0.679	true_negative_rate: 0.923	false_positive_rate: 0.077	false_negative_rate: 0.321	f1_score: 0.776	auc: 0.788	matthews_correlation_coefficient: 0.617	
+2022-03-17 11:14:24
+sample 24
+accuracy: 0.741	precision: 0.818	sensitivity: 0.643	specificity: 0.846	true_positive_rate: 0.643	true_negative_rate: 0.846	false_positive_rate: 0.154	false_negative_rate: 0.357	f1_score: 0.72	auc: 0.807	matthews_correlation_coefficient: 0.497	
+2022-03-17 11:14:33
+sample 25
+accuracy: 0.648	precision: 0.655	sensitivity: 0.679	specificity: 0.615	true_positive_rate: 0.679	true_negative_rate: 0.615	false_positive_rate: 0.385	false_negative_rate: 0.321	f1_score: 0.667	auc: 0.72	matthews_correlation_coefficient: 0.295	
+2022-03-17 11:14:42
+sample 26
+accuracy: 0.741	precision: 0.889	sensitivity: 0.571	specificity: 0.923	true_positive_rate: 0.571	true_negative_rate: 0.923	false_positive_rate: 0.077	false_negative_rate: 0.429	f1_score: 0.696	auc: 0.826	matthews_correlation_coefficient: 0.524	
+2022-03-17 11:14:51
+sample 27
+accuracy: 0.667	precision: 0.778	sensitivity: 0.5	specificity: 0.846	true_positive_rate: 0.5	true_negative_rate: 0.846	false_positive_rate: 0.154	false_negative_rate: 0.5	f1_score: 0.609	auc: 0.782	matthews_correlation_coefficient: 0.367	
+2022-03-17 11:15:00
+sample 28
+accuracy: 0.722	precision: 0.741	sensitivity: 0.714	specificity: 0.731	true_positive_rate: 0.714	true_negative_rate: 0.731	false_positive_rate: 0.269	false_negative_rate: 0.286	f1_score: 0.727	auc: 0.787	matthews_correlation_coefficient: 0.445	
+2022-03-17 11:15:09
+sample 29
+accuracy: 0.722	precision: 0.741	sensitivity: 0.714	specificity: 0.731	true_positive_rate: 0.714	true_negative_rate: 0.731	false_positive_rate: 0.269	false_negative_rate: 0.286	f1_score: 0.727	auc: 0.83	matthews_correlation_coefficient: 0.445	
+2022-03-17 11:15:19
+sample 30
+accuracy: 0.489	precision: 0.526	sensitivity: 0.8	specificity: 0.1	true_positive_rate: 0.8	true_negative_rate: 0.1	false_positive_rate: 0.9	false_negative_rate: 0.2	f1_score: 0.635	auc: 0.746	matthews_correlation_coefficient: -0.137	
+2022-03-17 11:15:28
+sample 31
+accuracy: 0.8	precision: 0.833	sensitivity: 0.8	specificity: 0.8	true_positive_rate: 0.8	true_negative_rate: 0.8	false_positive_rate: 0.2	false_negative_rate: 0.2	f1_score: 0.816	auc: 0.882	matthews_correlation_coefficient: 0.598	
+2022-03-17 11:15:37
+sample 32
+accuracy: 0.778	precision: 0.8	sensitivity: 0.8	specificity: 0.75	true_positive_rate: 0.8	true_negative_rate: 0.75	false_positive_rate: 0.25	false_negative_rate: 0.2	f1_score: 0.8	auc: 0.859	matthews_correlation_coefficient: 0.55	
+2022-03-17 11:15:46
+sample 33
+accuracy: 0.733	precision: 0.783	sensitivity: 0.72	specificity: 0.75	true_positive_rate: 0.72	true_negative_rate: 0.75	false_positive_rate: 0.25	false_negative_rate: 0.28	f1_score: 0.75	auc: 0.894	matthews_correlation_coefficient: 0.467	
+2022-03-17 11:15:56
+sample 34
+accuracy: 0.822	precision: 0.815	sensitivity: 0.88	specificity: 0.75	true_positive_rate: 0.88	true_negative_rate: 0.75	false_positive_rate: 0.25	false_negative_rate: 0.12	f1_score: 0.846	auc: 0.903	matthews_correlation_coefficient: 0.639	
+2022-03-17 11:16:05
+sample 35
+accuracy: 0.689	precision: 0.762	sensitivity: 0.64	specificity: 0.75	true_positive_rate: 0.64	true_negative_rate: 0.75	false_positive_rate: 0.25	false_negative_rate: 0.36	f1_score: 0.696	auc: 0.838	matthews_correlation_coefficient: 0.388	
+2022-03-17 11:16:14
+sample 36
+accuracy: 0.711	precision: 0.8	sensitivity: 0.64	specificity: 0.8	true_positive_rate: 0.64	true_negative_rate: 0.8	false_positive_rate: 0.2	false_negative_rate: 0.36	f1_score: 0.711	auc: 0.83	matthews_correlation_coefficient: 0.44	
+2022-03-17 11:16:23
+sample 37
+accuracy: 0.8	precision: 0.864	sensitivity: 0.76	specificity: 0.85	true_positive_rate: 0.76	true_negative_rate: 0.85	false_positive_rate: 0.15	false_negative_rate: 0.24	f1_score: 0.809	auc: 0.887	matthews_correlation_coefficient: 0.606	
+2022-03-17 11:16:33
+sample 38
+accuracy: 0.711	precision: 0.8	sensitivity: 0.64	specificity: 0.8	true_positive_rate: 0.64	true_negative_rate: 0.8	false_positive_rate: 0.2	false_negative_rate: 0.36	f1_score: 0.711	auc: 0.872	matthews_correlation_coefficient: 0.44	
+2022-03-17 11:16:42
+sample 39
+accuracy: 0.622	precision: 0.786	sensitivity: 0.44	specificity: 0.85	true_positive_rate: 0.44	true_negative_rate: 0.85	false_positive_rate: 0.15	false_negative_rate: 0.56	f1_score: 0.564	auc: 0.87	matthews_correlation_coefficient: 0.311	
+2022-03-17 11:16:51
+sample 40
+accuracy: 0.778	precision: 0.8	sensitivity: 0.741	specificity: 0.815	true_positive_rate: 0.741	true_negative_rate: 0.815	false_positive_rate: 0.185	false_negative_rate: 0.259	f1_score: 0.769	auc: 0.844	matthews_correlation_coefficient: 0.557	
+2022-03-17 11:17:01
+sample 41
+accuracy: 0.704	precision: 0.762	sensitivity: 0.593	specificity: 0.815	true_positive_rate: 0.593	true_negative_rate: 0.815	false_positive_rate: 0.185	false_negative_rate: 0.407	f1_score: 0.667	auc: 0.691	matthews_correlation_coefficient: 0.418	
+2022-03-17 11:17:10
+sample 42
+accuracy: 0.741	precision: 0.76	sensitivity: 0.704	specificity: 0.778	true_positive_rate: 0.704	true_negative_rate: 0.778	false_positive_rate: 0.222	false_negative_rate: 0.296	f1_score: 0.731	auc: 0.721	matthews_correlation_coefficient: 0.483	
+2022-03-17 11:17:19
+sample 43
+accuracy: 0.796	precision: 0.9	sensitivity: 0.667	specificity: 0.926	true_positive_rate: 0.667	true_negative_rate: 0.926	false_positive_rate: 0.074	false_negative_rate: 0.333	f1_score: 0.766	auc: 0.905	matthews_correlation_coefficient: 0.614	
+2022-03-17 11:17:29
+sample 44
+accuracy: 0.815	precision: 0.815	sensitivity: 0.815	specificity: 0.815	true_positive_rate: 0.815	true_negative_rate: 0.815	false_positive_rate: 0.185	false_negative_rate: 0.185	f1_score: 0.815	auc: 0.869	matthews_correlation_coefficient: 0.63	
+2022-03-17 11:17:38
+sample 45
+accuracy: 0.759	precision: 0.792	sensitivity: 0.704	specificity: 0.815	true_positive_rate: 0.704	true_negative_rate: 0.815	false_positive_rate: 0.185	false_negative_rate: 0.296	f1_score: 0.745	auc: 0.852	matthews_correlation_coefficient: 0.522	
+2022-03-17 11:17:48
+sample 46
+accuracy: 0.704	precision: 0.739	sensitivity: 0.63	specificity: 0.778	true_positive_rate: 0.63	true_negative_rate: 0.778	false_positive_rate: 0.222	false_negative_rate: 0.37	f1_score: 0.68	auc: 0.773	matthews_correlation_coefficient: 0.412	
+2022-03-17 11:17:57
+sample 47
+accuracy: 0.759	precision: 0.792	sensitivity: 0.704	specificity: 0.815	true_positive_rate: 0.704	true_negative_rate: 0.815	false_positive_rate: 0.185	false_negative_rate: 0.296	f1_score: 0.745	auc: 0.816	matthews_correlation_coefficient: 0.522	
+2022-03-17 11:18:06
+sample 48
+accuracy: 0.704	precision: 0.824	sensitivity: 0.519	specificity: 0.889	true_positive_rate: 0.519	true_negative_rate: 0.889	false_positive_rate: 0.111	false_negative_rate: 0.481	f1_score: 0.636	auc: 0.857	matthews_correlation_coefficient: 0.439	
+2022-03-17 11:18:15
+sample 49
+accuracy: 0.778	precision: 0.8	sensitivity: 0.741	specificity: 0.815	true_positive_rate: 0.741	true_negative_rate: 0.815	false_positive_rate: 0.185	false_negative_rate: 0.259	f1_score: 0.769	auc: 0.846	matthews_correlation_coefficient: 0.557	
