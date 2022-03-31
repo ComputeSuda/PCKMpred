@@ -8,7 +8,7 @@ on PTM cross-talk, the area under the curve of our best prediction model reaches
 the state-of-art-model PCTpred. Based on the evaluation of PTM mutation, our prediction model is
 highly reliable with an AUC score 0.935. Even with the removal of the distance, the performance of
 our model is relatively stable.
-![PPICT_framework](https://github.com/ComputeSuda/PCKMpred/blob/main/IMG/workflow.png)
+![PCKMpred_framework](https://github.com/ComputeSuda/PCKMpred/blob/main/IMG/workflow.png)
 
 # System requirement  
 PCKMpred is develpoed under Linux environment with:  
