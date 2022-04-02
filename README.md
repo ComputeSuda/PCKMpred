@@ -13,8 +13,6 @@ our model is relatively stable.
 # System requirement  
 PCKMpred is develpoed under Linux environment with:  
 * Ubuntu 18.04, CUDA: 10.1, Cudnn: 7.6.5    
-* Python (3.7.0): keras==2.4.3, scikit-learn==0.24.2, numpy==1.19.5, tensorflow==2.4.1, biopython==1.78 and prody==2.0 modules    
-* R (4.0.3): bio3d==2.4-1, igraph==1.2.6, and stringr==1.4.0 modules 
 * Python (3.7.0):
     - keras==2.4.3
     - scikit-learn==0.24.2
